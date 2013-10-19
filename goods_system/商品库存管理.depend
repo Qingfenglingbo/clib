@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1320509614 source:e:\商品库存管理\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1320509816 source:e:\商品库存管理1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1320639533 source:d:\学习资料\大三上课\商品库存管理1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1320846627 source:d:\学习资料\大三上课\数据结构\商品库存管理1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
