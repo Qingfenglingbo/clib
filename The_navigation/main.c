@@ -1,7 +1,7 @@
 #include <stdio.h>
 #define Max 99999
 #define NUM 10
-#include<windows.h>
+//#include<windows.h>
 
 //两景点相邻边
 typedef struct Way
@@ -35,6 +35,17 @@ void Print_Inf();
 void ShortestPath(int num); //最短路径
 void output(int sight1,int sight2);
 
+/*
+on the linux
+int GetModuleFileName(char* name, int size)
+{
+  FILE* stream = fopen("/proc/self/cmdline", "r");
+  fgets(name, size, stream);
+  fclose(stream);
+
+  return strlen(name);
+}
+*/
 int main()
 {
     char a;
