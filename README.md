@@ -1,6 +1,5 @@
-## clib
+## Data structure 
 ====
 
-This is myself the C test.
-
+This is data structure practice
 
